@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
     npm install
 4. **npm install**:
      ```bash
-     npm start
+     npm run dev
 5. **Visit app in your browser**:
     localhost:3000
 
