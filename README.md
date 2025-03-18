@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
      ```bash
      npm run dev
 5. **Visit app in your browser**:
-    localhost:3000
+    localhost:5173
 
 # 🚀 Usage Guide
 
