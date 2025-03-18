@@ -5,12 +5,9 @@ Welcome to the **File Explorer - Shiprocket** project! This application is a web
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
